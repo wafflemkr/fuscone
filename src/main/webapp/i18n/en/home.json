@@ -1,7 +1,7 @@
 {
     "home": {
-        "title": "Welcome, Java Hipster!",
-        "subtitle": "This is your homepage",
+        "title": "FUSC One",
+        "subtitle": "Tournaments and Clinic Manager",
         "logged": {
             "message": "You are logged in as user \"{{username}}\"."
         },
